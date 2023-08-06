@@ -6,4 +6,5 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 
 1. Models, Prompts and Output Parsers;
 2. Memory;
-3. 
+3. Chains;
+4. 
